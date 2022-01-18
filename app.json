@@ -7,7 +7,7 @@
         "stripe",
         "checker"
     ],
-    "repository": "https://github.com/ghostswipe/stripekey-generator",
+    "repository": "https://github.com/ghostswipe/sdk",
     "env": {
         "FORWARD_ID": {
             "description": "Your UserID/Chat ID to forward live sk keys to",
